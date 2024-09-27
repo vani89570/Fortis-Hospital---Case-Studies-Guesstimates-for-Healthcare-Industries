@@ -2,6 +2,8 @@
 # Fortis-Hospital-Case-Studies-Guesstimates-for-Healthcare-Industries
 ---
 
+Contributions/Creadits : Group Project
+
 Fortis Healthcare is a prominent player in India’s healthcare sector, with a network of 28 hospitals spread across 9 cities and 8 states, alongside over 4,500 operational beds and 400 diagnostic centers in India, UAE, Nepal, and Sri Lanka. This case study delves into the strategic initiatives and innovative practices adopted by Fortis to tackle real-world healthcare challenges and drive operational excellence. 🚀
 
 ---
